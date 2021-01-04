@@ -1,4 +1,0 @@
-//985 Morning Task
-
-//Try to solve in different approach
-https://leetcode.com/problems/sort-array-by-parity-ii/

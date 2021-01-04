@@ -38,3 +38,27 @@ Note:
 1 <= queries.length <= 10000
 -10000 <= queries[i][0] <= 10000
 0 <= queries[i][1] < A.length*/
+
+
+
+
+var A = [1, 2, 3, 4];
+var queries = [[1, 0], [-3, 1], [-4, 0], [2, 3]];
+var newArray = [];
+for (var i = 0; i < queries.length; i++) {
+
+    var whichValue = queries[i][0];
+    var whichIndex = queries[i][1];
+    A[whichIndex] = A[whichIndex] + whichValue;
+
+    var n = 0;
+    var sum = 0;
+    while (n < A.length) {
+        if (A[n] % 2 == 0) {
+            sum = sum + A[n]
+        }
+        n++;
+    }
+    newArray.push(sum)
+}
+return console.log(newArray);
