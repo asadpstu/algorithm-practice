@@ -6,7 +6,7 @@ other elemnts are 1 time
 
 Return should be like this ['5:3','7:2',3,4,7]
 
-/*
+*/
 
 var arr = [5, 5, 5, 7, 7, 3, 4, 7]
 var newArray = [];

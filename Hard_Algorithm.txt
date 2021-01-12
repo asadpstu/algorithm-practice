@@ -1,17 +1,8 @@
-Hard ALgorithm
-====================
-1) Knapsack 0/1 Problem [Abdul Bari]  target=> Tomorrow
-2) Lcs longest commeion subsequence => target tomorrow
-https://www.youtube.com/watch?v=sSno9rV8Rhg&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=60&ab_channel=AbdulBari
-3) Maximum subset sum not adjacent
-https://www.youtube.com/watch?v=UtGtF6nc35g&ab_channel=TusharRoy-CodingMadeSimple
+Next Task to Solve:
+https://leetcode.com/problems/string-to-integer-atoi/
+https://leetcode.com/problems/longest-palindromic-substring/
 
-4) Subset sum problem
-https://www.youtube.com/watch?v=s6FhG--P7z0&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=3&ab_channel=TusharRoy-CodingMadeSimple
 
-5) Coin Change problem
-https://www.youtube.com/watch?v=Y0ZqKpToTic&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=5&ab_channel=TusharRoy-CodingMadeSimple
 
-https://www.algoexpert.io/questions/Longest%20Balanced%20Substring
 
 
